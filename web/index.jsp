@@ -12,7 +12,7 @@
 </head>
 <body>
 <center>
-  <a href="user/userlogin.jsp">User myLogin</a><br/>
+  <a href="user/userlogin.jsp">User Login</a><br/>
   <a href="myclass/classmanager.jsp">Class Manager</a>
 </center>
 </body>
